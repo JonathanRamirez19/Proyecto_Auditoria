@@ -1,0 +1,28 @@
+# Archivos temporales de Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos ocultos del sistema
+.DS_Store
+
+# Archivos de logs
+*.log
+
+# Carpetas de configuración de editores
+.vscode/
+.idea/
+
+# Archivos de entorno (variables de configuración)
+*.env
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos compilados
+*.class
+*.exe
+*.dll
+
+# Carpeta de dependencias de Node.js
+node_modules/
